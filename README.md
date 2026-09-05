@@ -1,22 +1,28 @@
-# home-budget_data_platform
+# 💵 Home Budget Data Platform
 
-# Projekt: Home Budget Data Platform
+## 📝 About
 
-Projekt do porfolio ukazujący budowę i działanie narzedzia do zarządzania i analizą budżetu domowego.
+A portfolio project focused on designing and building an end-to-end personal finance solution for tracking, managing, and analyzing a household budget.
 
-## Cel projektu:
+## 🎯 Goal
 
-Celem projektu jest stworzenie prostego rozwiązania end-to-end do rejestrowania, przechowywania i analizowania danych finansowych z wielu kont.
+The main goal of the project is to create a solution for:
 
-## Technologie:
+- tracking financial transactions
+- managing multiple bank accounts
+- storing data in SQL Server
+- building a structured data model based on a star schema
+- creating analytical reports in Power BI
 
-- Excel,
-- VBA,
-- SQL Serwer,
-- Power BI,
+## ⚙️ Planned Tech Stack
+
+- Excel
+- VBA
+- SQL Server
+- Power BI
 - Git / GitHub
 
-## Architektura docelowego rozwiązania
+## 🧩 Planned Architecture
 
 Excel + VBA  
 ↓  
@@ -26,6 +32,6 @@ Data Warehouse
 ↓  
 Power BI
 
-## Status
+## 📈 Project Status
 
-🚧 In progress
+🚧 Planning phase
